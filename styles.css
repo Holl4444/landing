@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+  font-family: "Roboto", serif;
+}
+
+.dark {
+  background-color: #1f2937;
+  color: #e5e7eb;
+}
+
+.grey {
+  background-color: #e5e7eb;
+}
+
+.blue {
+  background-color: #3882f6;
+}
+
+a {
+  color: #e5e7eb;
+  font-size: 18px;
+}
+
+.logo {
+  color: #f9faf8;
+  font-size: 24px;
+}
+
+h1 {
+  color: #f9faf8;
+  font-weight: 900;
+  font-size: 48px;
+}
+
+button {
+  background-color: #3882f6;
+}
+
+.information-header {
+  font-weight: 900;
+  font-size: 36px;
+  color: #1f2937;
+}
+
+.quote-text {
+  font-size: 36px;
+  font-weight: lighter;
+}
